@@ -1,1 +1,0 @@
-.. include:: ../MIGRATION_GUIDE.rst
